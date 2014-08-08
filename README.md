@@ -1,7 +1,7 @@
 FAN-wiki
 ========
 
-General wiki for community/general items.
+This branch is used for General documention (wiki) / General communication (issues) related to all-sub projects.
 
 See: https://github.com/flexiblepower/FAN-wiki/wiki
 
